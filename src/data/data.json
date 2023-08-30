@@ -1,0 +1,52 @@
+[
+    {
+      "firstName": "Anna",
+      "lastName": "Bobo",
+      "startDate": "2023-01-02",
+      "department": "Sales",
+      "birthDate": "2000-01-01",
+      "street": "9 long island",
+      "city": "New York",
+      "state": "New York"
+    },
+    {
+      "firstName": "na",
+      "lastName": "bo",
+      "startDate": "2021-01-02",
+      "department": "Marketing",
+      "birthDate": "1992-01-01",
+      "street": "4 long island",
+      "city": "Nework",
+      "state": "Nework"
+    },
+    {
+      "firstName": "Antoine",
+      "lastName": "John",
+      "startDate": "1992-01-02",
+      "department": "Biology",
+      "birthDate": "1970-01-01",
+      "street": "Impasse Béranger, 75096",
+      "city": "Paris",
+      "state": "Texas"
+    },
+    {
+      "firstName": "Yo",
+      "lastName": "Hn",
+      "startDate": "1992-02-02",
+      "department": "Sales",
+      "birthDate": "1970-01-01",
+      "street": "Impasse Béranger, 75096",
+      "city": "Paris",
+      "state": "Texas"
+    },
+    {
+      "firstName": "Ofm",
+      "lastName": "",
+      "startDate": "",
+      "department": "Sales",
+      "birthDate": "1970-01-01",
+      "street": "Impasse Béranger, 75096",
+      "city": "Paris",
+      "state": ""
+    }
+  ]
